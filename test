@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>this is a website</title>
+  </head> 
+  <body></body> 
+</html>
+
+<button>This is a button!</button>
+<p>This is a website!</p>
+<a href="https://www.google.com/">link to Google</a>
+<style>
+    button{
+background-color: red;
+ color: blue;
+height: 40px;
+width: 100px;
+ border-radius: 2px; 
+ cursor: pointer ; 
+
+    }
+    .do not PRESS:hover {
+background-color: rgb(7, 231, 55);
+    }
+</style>
+
+<button class="do not PRESS">DO NOT PRESS</button>
